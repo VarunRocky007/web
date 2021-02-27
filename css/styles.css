@@ -1,0 +1,150 @@
+.topcontainer{
+
+  background-color: #ccf2f4;
+  padding-top: 100px;
+  position: relative;
+}
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #f4f9f9;
+
+
+}
+h1{
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.62rem;
+  line-height: 2;
+
+
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Merienda', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+
+}
+h3{
+  color: #11999E;
+  font-family: 'Merienda', cursive;
+
+}
+a{
+  color: #11999E;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  top:50px;
+  right:300px;
+}
+.profile-photo{
+  height:200px;
+  width:200px;
+}
+.android-photo{
+  float:left;
+  margin-right: 30px;
+
+  width:25%;
+
+
+}
+.ml-photo{
+
+  float: right;
+  margin-left: 30px;
+
+  width:25%;
+}
+.skill-row{
+
+  width:50%;
+  text-align:left;
+  line-height: 2;
+  margin:200px auto 200px auto;
+}
+.profile{
+  margin:200px auto 200px auto;
+  width: 50%
+}
+hr{
+  border: none;
+  border-top: dotted;
+  border-width:10px;
+  width:5%;
+  border-color: grey;
+}
+.skills{
+  margin-top: 100px;
+}
+.contact-me{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 3;
+}
+.bottomcontainer{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #66BFBF;
+  line-height: 3;
+
+
+}
+.footer-link{
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+
+}
+
+.BUTTON_MJS {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-size: 15px;
+   font-weight: 800;
+   padding: 10px;
+   background-color: #66BFBF;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: inset #66BFBF 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_MJS:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+a:hover{
+  color: white;
+}
